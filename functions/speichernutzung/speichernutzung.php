@@ -1,5 +1,14 @@
 <?php
 
+# Friday, 08/07/2015
+# This Code is modified from the Code of WP Plugin WP-Memory-Usage: http://de.wordpress.org/plugins/wp-memory-usage/
+# Code Contributors: Alex Rabe
+# Author URI: https://profiles.wordpress.org/alexrabe/
+# License: GPLv2 or later
+# License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+# Many Thanks to Alex Rabe!
+
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Speichernutzung des Blogs anzeigen
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -35,10 +35,7 @@ Das WordPress Plugin [WP Backpack](http://www.christophkleinschmidt.de/wordpress
 * Anzeige der wichtigsten Website Rankings im Dashboard
 
 = Folgen Sie dem Autor: =
-[Facebook](https://www.facebook.com/ckerfurt) 
-[Twitter](https://www.twitter.com/ckerfurt)
-[Instagram](https://www.instagram.com/ckerfurt)
-[Google+](https://plus.google.com/+ChristophKleinschmidt/posts)
+[Facebook](https://www.facebook.com/ckerfurt), [Twitter](https://www.twitter.com/ckerfurt), [Instagram](https://www.instagram.com/ckerfurt), [Google+](https://plus.google.com/+ChristophKleinschmidt/posts)
 
 == Installation ==
 1. Laden Sie sich das WordPress Plugin WP Backpack völlig kostenfrei und unverbindlich herunter.

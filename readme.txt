@@ -11,37 +11,38 @@ License URI: http://www.gnu.de/documents/gpl-2.0.de.html
 Das WordPress Plugin WP Backpack ist eine gebündelte Sammlung von wichtigen Optionen und Funktionen für WordPress.
 
 == Description ==
-Das WordPress Plugin WP Backpack ist eine gebündelte Sammlung von wichtigen Optionen und Funktionen. Über Neuigkeiten und aktuelle Updates werden die Nutzer stets informiert.
+Das WordPress Plugin [WP Backpack](http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack/) ist eine gebündelte Sammlung von wichtigen Optionen und Funktionen. Über Neuigkeiten und aktuelle Updates werden die Nutzer stets informiert.
 
-Auszug WP Backpack Funktionen und Optionen
-- einfache Installation des Plugins
-- alle Optionen und Funktionen übersichtlich konfigurierbar
-- Menüpunkte und Begriffe seitenweit umbenennen
-- Anzeige eines Favicon im Backend
-- IDs von Beiträgen und Seiten im Backend anzeigen lassen
-- Kontaktdaten im Backend Dashboard und Footer anzeigen
-- den Login Screen von WordPress anpassen
-- bestimmte Menüpunkte für bestimmte User ausblenden
-- eigene Beitragstypen in Ähnlichen Beiträgen anzeigen
-- bestimmte Kategorie aus den Ähnlichen Beiträgen entfernen
-- Ähnliche Beiträge auf bestimmten Seiten nicht anzeigen
-- RSS Feed mit Thumbnail verteilen
-- alle WordPress-Shortlink-Anfragen voll auflösen lassen – kein Umwandlung in Shortlink wp.link
-- Update-Nachricht nur dem Administrator anzeigen
-- Speichernutzung des Blogs anzeigen
-- WordPress Logo in Admin Bar im Backend entfernen
-- letzte Blog-Beiträge mit Shortcode an gewünschter Stelle anzeigen lassen
-- Plugins, Themes, etc. ohne Passwort installieren
-- Anzeige der wichtigsten Website Rankings im Dashboard
+**Auszug WP Backpack Funktionen und Optionen**
+* einfache Installation des Plugins
+* alle Optionen und Funktionen übersichtlich konfigurierbar
+* Menüpunkte und Begriffe seitenweit umbenennen
+* Anzeige eines Favicon im Backend
+* IDs von Beiträgen und Seiten im Backend anzeigen lassen
+* Kontaktdaten im Backend Dashboard und Footer anzeigen
+* den Login Screen von WordPress anpassen
+* bestimmte Menüpunkte für bestimmte User ausblenden
+* eigene Beitragstypen in Ähnlichen Beiträgen anzeigen
+* bestimmte Kategorie aus den Ähnlichen Beiträgen entfernen
+* Ähnliche Beiträge auf bestimmten Seiten nicht anzeigen
+* RSS Feed mit Thumbnail verteilen
+* alle WordPress-Shortlink-Anfragen voll auflösen lassen – kein Umwandlung in Shortlink wp.link
+* Update-Nachricht nur dem Administrator anzeigen
+* Speichernutzung des Blogs anzeigen
+* WordPress Logo in Admin Bar im Backend entfernen
+* letzte Blog-Beiträge mit Shortcode an gewünschter Stelle anzeigen lassen
+* Plugins, Themes, etc. ohne Passwort installieren
+* Anzeige der wichtigsten Website Rankings im Dashboard
 
 == Installation ==
-Laden Sie sich das WordPress Plugin WP Backpack völlig kostenfrei und unverbindlich herunter.
-Entpacken Sie das Plugin ganz einfach und laden Sie es in Ihren Plugin Ordner unter /wp-content/plugins in Ihrer WordPress Installation. Aktivieren Sie das Plugin danach problemlos und unkompliziert.
+1. Laden Sie sich das WordPress Plugin WP Backpack völlig kostenfrei und unverbindlich herunter.
+2. Entpacken Sie das Plugin ganz einfach und laden Sie es in Ihren Plugin Ordner unter /wp-content/plugins in Ihrer WordPress Installation. 
+3. Aktivieren Sie das Plugin danach problemlos und unkompliziert.
 
-Siehe: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
+http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 == Frequently Asked Questions ==
-Siehe: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
+http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 == Screenshots ==
 1. http://www.christophkleinschmidt.de/wp-content/uploads/2015/06/wpbackpack_ranking.jpg
@@ -49,17 +50,17 @@ Siehe: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokument
 3. http://www.christophkleinschmidt.de/wp-content/uploads/2015/06/wpbackpack_kontakt.jpg
 
 == Changelog ==
-WP Backpack v1.3
+**WP Backpack v1.3**
+http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
+
+**WP Backpack v1.2**
 Siehe: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
-WP Backpack v1.2
-Siehe: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
+**WP Backpack v1.1**
+http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
-WP Backpack v1.1
-Siehe: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
-
-WP Backpack v1.0
-Siehe: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
+**WP Backpack v1.0**
+http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 == Upgrade Notice ==
-Siehe: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
+http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/

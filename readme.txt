@@ -56,16 +56,17 @@ http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 == Changelog ==
 **WP Backpack v1.3**
+
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 **WP Backpack v1.2**
+
 Siehe: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 **WP Backpack v1.1**
+
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 **WP Backpack v1.0**
-http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
-== Upgrade Notice ==
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/

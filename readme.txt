@@ -55,18 +55,15 @@ http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 3. http://www.christophkleinschmidt.de/wp-content/uploads/2015/06/wpbackpack_kontakt.jpg
 
 == Changelog ==
-**WP Backpack v1.3**
 
+= WP Backpack v1.3 =
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
-**WP Backpack v1.2**
-
+= WP Backpack v1.2 =
 Siehe: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
-**WP Backpack v1.1**
-
+= WP Backpack v1.1 =
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
-**WP Backpack v1.0**
-
+= WP Backpack v1.0 =
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/

@@ -41,10 +41,12 @@ Das WordPress Plugin [WP Backpack](http://www.christophkleinschmidt.de/wordpress
 3. Aktivieren Sie das Plugin danach problemlos und unkompliziert.
 
 **Dokumentation**
+
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 == Frequently Asked Questions ==
 **Dokumentation**
+
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 == Screenshots ==

@@ -34,6 +34,12 @@ Das WordPress Plugin [WP Backpack](http://www.christophkleinschmidt.de/wordpress
 * Plugins, Themes, etc. ohne Passwort installieren
 * Anzeige der wichtigsten Website Rankings im Dashboard
 
+= Folgen Sie dem Autor: =
+[Facebook](https://www.facebook.com/ckerfurt) 
+[Twitter](https://www.twitter.com/ckerfurt)
+[Instagram](https://www.instagram.com/ckerfurt)
+[Google+](https://plus.google.com/+ChristophKleinschmidt/posts)
+
 == Installation ==
 1. Laden Sie sich das WordPress Plugin WP Backpack völlig kostenfrei und unverbindlich herunter.
 2. Entpacken Sie das Plugin ganz einfach und laden Sie es in Ihren Plugin Ordner unter /wp-content/plugins in Ihrer WordPress Installation. 
@@ -48,10 +54,10 @@ http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 == Screenshots ==
-1. WP Backpack Backend
-2. Ranking der eigenen Website anzeigen lassen
-3. Kontaktdaten als Widget im Dashboard
-4. Speicherauslastung anzeigen lassen
+1. übersichtliches und aufgeräumtes WP Backpack Backend
+2. SEO Ranking der eigenen Website anzeigen lassen
+3. gewünschte Kontaktdaten als Widget im Dashboard anzeigen lassen
+4. Speicherauslastung der eigenen Website anzeigen lassen
 
 == Changelog ==
 

@@ -14,6 +14,7 @@ Das WordPress Plugin WP Backpack ist eine gebündelte Sammlung von wichtigen Opt
 Das WordPress Plugin [WP Backpack](http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack/) ist eine gebündelte Sammlung von wichtigen Optionen und Funktionen. Über Neuigkeiten und aktuelle Updates werden die Nutzer stets informiert.
 
 **Auszug WP Backpack Funktionen und Optionen:**
+
 * einfache Installation des Plugins
 * alle Optionen und Funktionen übersichtlich konfigurierbar
 * Menüpunkte und Begriffe seitenweit umbenennen
@@ -50,8 +51,6 @@ http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 1. http://www.christophkleinschmidt.de/wp-content/uploads/2015/06/wpbackpack_ranking.jpg
 2. http://www.christophkleinschmidt.de/wp-content/uploads/2015/06/wpbackpack_speichernutzung.jpg
 3. http://www.christophkleinschmidt.de/wp-content/uploads/2015/06/wpbackpack_kontakt.jpg
-
-== Other Notes ==
 
 == Changelog ==
 **WP Backpack v1.3**

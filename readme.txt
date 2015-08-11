@@ -48,9 +48,10 @@ http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 == Screenshots ==
-1. http://www.christophkleinschmidt.de/wp-content/uploads/2015/06/wpbackpack_ranking.jpg
-2. http://www.christophkleinschmidt.de/wp-content/uploads/2015/06/wpbackpack_speichernutzung.jpg
-3. http://www.christophkleinschmidt.de/wp-content/uploads/2015/06/wpbackpack_kontakt.jpg
+1. WP Backpack Backend
+2. Ranking der eigenen Website anzeigen lassen
+3. Kontaktdaten als Widget im Dashboard
+4. Speicherauslastung anzeigen lassen
 
 == Changelog ==
 

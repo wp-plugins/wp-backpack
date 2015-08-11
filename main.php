@@ -88,6 +88,7 @@ function wp_backpack_help_link_skript_add_jquery() {
     <?php
 }
 
+# Menüeinträge in der Plugin-Übersicht
 add_filter( 'plugin_action_links_' . plugin_basename(__FILE__), 'my_plugin_action_links' );
 
 function my_plugin_action_links( $links ) {

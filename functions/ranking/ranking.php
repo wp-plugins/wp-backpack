@@ -4,6 +4,11 @@
 # Anzeige der wichtigsten Website Rankings im Dashboard
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+# This Function use the PageRank Tool from WebPageAnalyse: http://www.webpageanalyse.com/pagerank
+# Please note: Google™ search engine and PageRank™ algorithm are trademarks of Google Inc.
+
+# Many Thanks to WebPageAnalyse!
+
 # Kontaktdaten im Dashboard
 add_action('wp_dashboard_setup', 'ck_dashboard_ranking');
 function ck_dashboard_ranking() {

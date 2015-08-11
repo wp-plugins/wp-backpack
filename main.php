@@ -3,7 +3,7 @@
 Plugin Name: WP Backpack
 Plugin URI: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack
 Description: Eine Sammlung von wichtigen Optionen und Funktionen.
-Version: 1.3
+Version: 1.3.1
 Author: Christoph Kleinschmidt
 Author URI: http://www.christophkleinschmidt.de
 License: GPL2

@@ -83,7 +83,8 @@
 			</th>
 				<td>
 					<input type="checkbox" name="wp_backpack_ranking" value="1" <?php  if(get_option('wp_backpack_ranking') == 1) echo 'checked="checked"'; ?>"/>
-					<span class="description"><?php _e("Anzeige der wichtigsten Website Rankings im Dashboard<br><br>Zur Anzeige des Website Rankings im Dashboard bitte die eigene Website (Bsp.: example.com) einmalig in das untere Feld oder <a href='http://www.webpageanalyse.com/pagerank' target='_blank'>hier</a> eintragen."); ?></span>
+					<span class="description"><?php _e("Anzeige der wichtigsten Website Rankings im Dashboard<br><br>Zur Anzeige des Website Rankings im Dashboard muss die eigene Website (Bsp.: example.com) einmalig auf der Website <a href='http://www.webpageanalyse.com/' target='_blank'>WebPageAnalyse</a> eingetragen werden.<br>
+					Nutzen Sie hierzu bitte das unten eingebettete Formularfeld oder <a href='http://www.webpageanalyse.com/pagerank' target='_blank'>diesen Link</a> zum eintragen."); ?></span>
 				<br>
 				<br>
 				<div style="width:317px; height:50px; overflow:hidden; position:relative;">

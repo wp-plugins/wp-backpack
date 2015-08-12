@@ -3,7 +3,7 @@
 Plugin Name: WP Backpack
 Plugin URI: http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack
 Description: Eine Sammlung von wichtigen Optionen und Funktionen.
-Version: 1.3.2
+Version: 1.3.3
 Author: Christoph Kleinschmidt
 Author URI: http://www.christophkleinschmidt.de
 License: GPL2
@@ -52,7 +52,8 @@ function wp_backpack_menu() {
 	add_submenu_page( 'allgemein', 'Allgemein', 'Allgemein', 'manage_options', 'allgemein', 'wp_backpack_options_allgemein');
 	add_submenu_page( 'allgemein', 'Einstellungen1', 'Aussehen', 'manage_options', 'einstellungen1', 'wp_backpack_options1');
 	add_submenu_page( 'allgemein', 'Einstellungen2', 'Technik', 'manage_options', 'einstellungen2', 'wp_backpack_options2');
-	add_submenu_page( 'allgemein', 'Einstellungen3', 'Ähnliche Beiträge', 'manage_options', 'einstellungen3', 'wp_backpack_options3');
+    add_submenu_page( 'allgemein', 'Einstellungen3', 'Ähnliche Beiträge', 'manage_options', 'einstellungen3', 'wp_backpack_options3');
+    add_submenu_page( 'allgemein', 'Einstellungen4', 'WP Plugin Tipps', 'manage_options', 'einstellungen4', 'wp_backpack_options4');
 }
 
 # Menü Untereintrag 'Über das Plugin' 
@@ -121,6 +122,10 @@ function wp_backpack_options2() {
 
 function wp_backpack_options3() {
     include 'wp-backpack-options3.php';
+}
+
+function wp_backpack_options4() {
+    include 'wp-backpack-options4.php';
 }
 	
 ?>

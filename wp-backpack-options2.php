@@ -15,6 +15,7 @@
     <a href="/wp-admin/admin.php?page=einstellungen1" class="nav-tab">Aussehen</a>
 	<a href="/wp-admin/admin.php?page=einstellungen2" class="nav-tab nav-tab-active">Technik</a>
 	<a href="/wp-admin/admin.php?page=einstellungen3" class="nav-tab">Ähnliche Beiträge</a>
+	<a href="/wp-admin/admin.php?page=einstellungen4" class="nav-tab">WP Plugin Tipps</a>
 </h2>	
 <h3 style="font-style:italic;">
 	Bitte Aktivieren oder Deaktivieren Sie Ihre Einstellungen und speichern Sie diese anschließend.

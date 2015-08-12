@@ -2,6 +2,12 @@
 <!--  Tab Einstellungen 3 -->
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
+<!-- Plugin Install Link -->
+<?php
+$plugin_name_1 = 'jetpack';
+$install_link_1 = '<a href="' . esc_url( network_admin_url('plugin-install.php?tab=plugin-information&plugin=' . $plugin_name_1 . '&TB_iframe=true&width=772&height=772' ) ) . '" class="button thickbox" title="WordPress Plugin Jetpack">Jetpack installieren</a>';
+?>
+
 <div class="wrap">
 	<div id="icon-options-general" class="icon32">
 	<br>
@@ -15,14 +21,15 @@
     <a href="/wp-admin/admin.php?page=einstellungen1" class="nav-tab">Aussehen</a>
 	<a href="/wp-admin/admin.php?page=einstellungen2" class="nav-tab">Technik</a>
 	<a href="/wp-admin/admin.php?page=einstellungen3" class="nav-tab nav-tab-active">Ähnliche Beiträge</a>
+	<a href="/wp-admin/admin.php?page=einstellungen4" class="nav-tab">WP Plugin Tipps</a>
 </h2>	
 <h3 style="font-style:italic;">
 	Bitte Aktivieren oder Deaktivieren Sie Ihre Einstellungen und speichern Sie diese anschließend.
 	Hilfe finden Sie in dieser <a href='http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation' target='_blank'>Dokumentation</a>.<br>
 	Für die Nutzung dieser Funktionen wird das kostenfreie WordPress-Plugin <a href='https://wordpress.org/plugins/jetpack/' target='_blank'>Jetpack</a> mit der aktivierten Funktion <a href='http://jetpack.me/support/related-posts/' target='_blank'>Related Posts</a> benötigt.<br>
 	<br>
-	<a href="https://downloads.wordpress.org/plugin/jetpack.3.6.1.zip" class="button">Jetpack herunterladen</a>
-</h3>
+	<?php echo $install_link_1; ?>
+	</h3>
 <form method="post" action="options.php">
 <?php settings_fields('wp_backpack_group3'); ?>
 	<table class="form-table">

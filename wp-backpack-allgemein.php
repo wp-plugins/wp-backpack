@@ -15,6 +15,7 @@
     <a href="/wp-admin/admin.php?page=einstellungen1" class="nav-tab">Aussehen</a>
 	<a href="/wp-admin/admin.php?page=einstellungen2" class="nav-tab">Technik</a>
 	<a href="/wp-admin/admin.php?page=einstellungen3" class="nav-tab">Ähnliche Beiträge</a>
+	<a href="/wp-admin/admin.php?page=einstellungen4" class="nav-tab">WP Plugin Tipps</a>
 </h2>
 <br>
 <div style="border:1px solid #ccc; background-color:#fff; padding:10px; max-width:500px; margin-bottom:10px;">

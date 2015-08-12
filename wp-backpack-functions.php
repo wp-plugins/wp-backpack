@@ -53,16 +53,12 @@ function wp_backpack_register_settings() {
 	register_setting( 'wp_backpack_group1', 'wp_backpack_menuepunkte_check_gadash_settings');
 	register_setting( 'wp_backpack_group1', 'wp_backpack_menuepunkte_check_edit');
 	register_setting( 'wp_backpack_group1', 'wp_backpack_menuepunkte_check_wysija_campaigns');
-	register_setting( 'wp_backpack_group3', 'wp_backpack_related_posts_anzeige');
-	register_setting( 'wp_backpack_group3', 'wp_backpack_related_posts_anzahl');
-	register_setting( 'wp_backpack_group3', 'wp_backpack_related_posts_anzahl_number');
-	register_setting( 'wp_backpack_group3', 'wp_backpack_related_posts_kategorie');
-	register_setting( 'wp_backpack_group3', 'wp_backpack_related_posts_seiten');
+	register_setting( 'wp_backpack_group1', 'wp_backpack_wp_logo');
+	register_setting( 'wp_backpack_group2', 'wp_backpack_confirm');
 	register_setting( 'wp_backpack_group2', 'wp_backpack_rss');
 	register_setting( 'wp_backpack_group2', 'wp_backpack_shortlink');
 	register_setting( 'wp_backpack_group2', 'wp_backpack_update_nachricht');
 	register_setting( 'wp_backpack_group2', 'wp_backpack_speichernutzung');
-	register_setting( 'wp_backpack_group1', 'wp_backpack_wp_logo');
 	register_setting( 'wp_backpack_group2', 'wp_backpack_letzte_beitraege');
 	register_setting( 'wp_backpack_group2', 'wp_backpack_password');
 	register_setting( 'wp_backpack_group2', 'wp_backpack_ranking');
@@ -72,6 +68,11 @@ function wp_backpack_register_settings() {
 	register_setting( 'wp_backpack_group2', 'wp_backpack_input_shortcode_own3');
 	register_setting( 'wp_backpack_group2', 'wp_backpack_input_shortcode_own4');
 	register_setting( 'wp_backpack_group2', 'wp_backpack_input_shortcode_own5');
+	register_setting( 'wp_backpack_group3', 'wp_backpack_related_posts_anzeige');
+	register_setting( 'wp_backpack_group3', 'wp_backpack_related_posts_anzahl');
+	register_setting( 'wp_backpack_group3', 'wp_backpack_related_posts_anzahl_number');
+	register_setting( 'wp_backpack_group3', 'wp_backpack_related_posts_kategorie');
+	register_setting( 'wp_backpack_group3', 'wp_backpack_related_posts_seiten');
 }
 
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -161,6 +162,14 @@ if(get_option('wp_backpack_related_posts_kategorie') == 1){
 
 if(get_option('wp_backpack_related_posts_seiten') == 1){
 	require_once dirname( __FILE__ ) .'/functions/related-posts/related-posts-seiten.php';
+}
+
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Bestätigungsmeldung vor der Veröffentlichung eines Beitrages
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+if(get_option('wp_backpack_confirm') == 1){
+	require_once dirname( __FILE__ ) .'/functions/confirm-post/confirm-post.php';
 }
 	
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

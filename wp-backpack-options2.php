@@ -26,6 +26,15 @@
 	<table class="form-table">
 		<tr valign="top">
 			<th scope="row">
+				Bestätigungsmeldung Beitrag
+			</th>
+				<td>
+					<input type="checkbox" name="wp_backpack_confirm" value="1" <?php  if(get_option('wp_backpack_confirm') == 1) echo 'checked="checked"'; ?>"/>
+					<span class="description"><?php _e("zeigt eine Bestätigungsabfrage vor der Veröffentlichung eines Beitrages"); ?></span>
+				</td>
+		</tr>
+		<tr valign="top">
+			<th scope="row">
 				RSS Feed
 			</th>
 				<td>

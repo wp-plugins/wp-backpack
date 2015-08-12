@@ -58,6 +58,9 @@ http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 
 == Changelog ==
 
+= WP Backpack v1.3.4 =
+http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
+
 = WP Backpack v1.3.3 =
 http://www.christophkleinschmidt.de/wordpress-plugin-wp-backpack-dokumentation/
 

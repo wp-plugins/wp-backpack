@@ -50,5 +50,5 @@
 </div>
 <div style="border:1px solid #ccc; background-color:#fff; padding:10px; max-width:500px;">
 	<strong>Bewerten Sie dieses Plugin</strong><br>
-	<a href="https://wordpress.org/support/view/plugin-reviews/wp-backpack" target="_blank" class="button">Jetzt bewerten</a><br><br>
+	<a href="https://wordpress.org/support/view/plugin-reviews/wp-backpack" target="_blank" class="button">Jetzt bewerten</a>
 </div>

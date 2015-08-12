@@ -8,7 +8,7 @@
 </div>
 <h2><?php echo '<img src="' . plugins_url( '/wp-backpack/pictures/menu_icon.png') . '"> ';?>WP Backpack</h2>
 <div style="display:block; text-align:left; float:left;">von Christoph Kleinschmidt, Tel: 017623330719, Mail: <a href='mailto:mail@christophkleinschmidt.de' target='_blank'>mail@christophkleinschmidt.de</a>, Web: <a href='http://www.christophkleinschmidt.de' target='_blank'>www.christophkleinschmidt.de</a></div>
-<div style="display:block; text-align:right;">WP Backpack Version 1.3.3</div>
+<div style="display:block; text-align:right;">WP Backpack Version 1.3.4</div>
 <hr>
 <h2 class="nav-tab-wrapper">
 	<a href="/wp-admin/admin.php?page=allgemein" class="nav-tab nav-tab-active">Allgemein</a>

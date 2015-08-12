@@ -41,10 +41,14 @@
 	Hier können Sie sich in den Newsletter eintragen.<br>
 	<a href="http://www.christophkleinschmidt.de/newsletter-anmeldung/" target="_blank" class="button">Newsletter Anmeldung</a>
 </div>
-<div style="border:1px solid #ccc; background-color:#fff; padding:10px; max-width:500px;">
+<div style="border:1px solid #ccc; background-color:#fff; padding:10px; max-width:500px; margin-bottom:10px;">
 	<strong>Folgen Sie dem Autor</strong><br>
 		<a style="text-decoration: none;" href="https://www.facebook.com/ckerfurt" target="_blank"><?php echo '<img src="' . plugins_url( '/wp-backpack/pictures/facebook.png') . '" width="32px"> ';?></a>
 		<a style="text-decoration: none;" href="https://www.twitter.com/ckerfurt" target="_blank"><?php echo '<img src="' . plugins_url( '/wp-backpack/pictures/twitter.png') . '" width="32px"> ';?></a>
 		<a style="text-decoration: none;" href="https://www.instagram.com/ckerfurt" target="_blank"><?php echo '<img src="' . plugins_url( '/wp-backpack/pictures/instagram.png') . '" width="32px"> ';?></a>
 		<a style="text-decoration: none;" href="https://plus.google.com/+ChristophKleinschmidt/posts" target="_blank"><?php echo '<img src="' . plugins_url( '/wp-backpack/pictures/google.png') . '" width="32px"> ';?></a>
+</div>
+<div style="border:1px solid #ccc; background-color:#fff; padding:10px; max-width:500px;">
+	<strong>Bewerten Sie dieses Plugin</strong><br>
+	<a href="https://wordpress.org/support/view/plugin-reviews/wp-backpack" target="_blank" class="button">Jetzt bewerten</a><br><br>
 </div>

@@ -1,6 +1,6 @@
 === WP Backpack ===
 Contributors: ckerfurt
-Tags: begriffe, anzeige, favicon, backend, id, kontakt, login, screen, menü, menüpunkte, menue, menuepunkte, jetpack, related, post, kategorien, rss, feed, shortlink, speicher, ram, nutzung, speichernutzung, usage, logo, installation, install, password, passwort, rankings, website, websites, tool, werkzeug, backpack, rucksack, wordpress, develop, webdesign, webdevelop, helpful, hilfreich, plugin, erweiterung
+Tags: begriffe, anzeige, favicon, backend, id, kontakt, login, screen, menü, menüpunkte, menue, menuepunkte, jetpack, related, post, kategorien, rss, feed, shortlink, speicher, ram, nutzung, speichernutzung, usage, logo, installation, install, password, passwort, rankings, website, websites, tool, werkzeug, backpack, rucksack, wordpress, develop, webdesign, webdevelop, helpful, hilfreich, plugin, erweiterung, tools, funktionen, ranking, fehlermeldung, bestätigung, shortlink, blog, installation, logo, thumbnail, rss, update, admin, ids, menü, user, benutzer, rechte, beitragstyp, beitragstypen, ähnliche  
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=73ELPUXAJ9RML
 Requires at least: 4.2
 Tested up to: 4.2.4
@@ -39,7 +39,7 @@ Das WordPress Plugin [WP Backpack](http://www.christophkleinschmidt.de/wordpress
 
 == Installation ==
 1. Laden Sie sich das WordPress Plugin WP Backpack völlig kostenfrei und unverbindlich herunter.
-2. Entpacken Sie das Plugin ganz einfach und laden Sie es in Ihren Plugin Ordner unter /wp-content/plugins in Ihrer WordPress Installation. 
+2. Entpacken Sie das Plugin ganz einfach und laden Sie es in Ihren Plugin Ordner unter /wp-content/plugins in Ihrer WordPress Installation.
 3. Aktivieren Sie das Plugin danach problemlos und unkompliziert.
 
 = Dokumentation =

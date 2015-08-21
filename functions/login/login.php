@@ -8,7 +8,7 @@
 function ck_login_logo() { ?>
     <style type="text/css">
         .login h1 a {
-            background-image: url(<?php echo plugin_dir_url(); ?>wp-backpack/pictures/logo_blau.png);
+            background-image: url(<?php echo plugin_dir_url(); ?>wp-backpack/pictures/logo_blau.png) !important;
             padding-bottom: 30px;
         }
         .login {

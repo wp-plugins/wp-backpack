@@ -21,6 +21,9 @@ $install_link_6 = '<a href="' . esc_url( network_admin_url('plugin-install.php?t
 
 $plugin_name_7 = 'contact-form-7';
 $install_link_7 = '<a href="' . esc_url( network_admin_url('plugin-install.php?tab=plugin-information&plugin=' . $plugin_name_7 . '&TB_iframe=true&width=772&height=772' ) ) . '" class="button thickbox" title="WordPress Plugin Contact Form 7">Contact Form 7 installieren</a>';
+
+$plugin_name_8 = 'ultimate-maintenance-mode';
+$install_link_8 = '<a href="' . esc_url( network_admin_url('plugin-install.php?tab=plugin-information&plugin=' . $plugin_name_8 . '&TB_iframe=true&width=772&height=772' ) ) . '" class="button thickbox" title="WordPress Plugin Ultimate Maintenance Mode">Ultimate Maintenance Mode installieren</a>';
 ?>
 
 <div class="wrap">
@@ -90,6 +93,14 @@ $install_link_7 = '<a href="' . esc_url( network_admin_url('plugin-install.php?t
 			</th>
 			<td>
 				<?php echo $install_link_7; ?>
+			</td>
+		</tr>
+		<tr valign="top">
+			<th scope="row">
+				Ultimate Maintenance Mode
+			</th>
+			<td>
+				<?php echo $install_link_8; ?>
 			</td>
 		</tr>
 	</table>

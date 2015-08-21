@@ -2,8 +2,8 @@
 Contributors: ckerfurt
 Tags: begriffe, anzeige, favicon, backend, id, kontakt, login, screen, menü, menüpunkte, menue, menuepunkte, jetpack, related, post, kategorien, rss, feed, shortlink, speicher, ram, nutzung, speichernutzung, usage, logo, installation, install, password, passwort, rankings, website, websites, tool, werkzeug, backpack, rucksack, wordpress, develop, webdesign, webdevelop, helpful, hilfreich, plugin, erweiterung, tools, funktionen, ranking, fehlermeldung, bestätigung, shortlink, blog, installation, logo, thumbnail, rss, update, admin, ids, menü, user, benutzer, rechte, beitragstyp, beitragstypen, ähnliche  
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=73ELPUXAJ9RML
-Requires at least: 4.2
-Tested up to: 4.2.4
+Requires at least: 4.0
+Tested up to: 4.3
 Stable tag: stable
 License: GPL2 or later
 License URI: http://www.gnu.de/documents/gpl-2.0.de.html

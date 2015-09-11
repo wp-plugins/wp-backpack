@@ -4,6 +4,7 @@
 
 <!-- Plugin Install Links -->
 <?php
+
 $plugin_name_2 = 'jetpack';
 $install_link_2 = '<a href="' . esc_url( network_admin_url('plugin-install.php?tab=plugin-information&plugin=' . $plugin_name_2 . '&TB_iframe=true&width=772&height=772' ) ) . '" class="button thickbox" title="WordPress Plugin Jetpack">Jetpack installieren</a>';
 
@@ -24,6 +25,10 @@ $install_link_7 = '<a href="' . esc_url( network_admin_url('plugin-install.php?t
 
 $plugin_name_8 = 'ultimate-maintenance-mode';
 $install_link_8 = '<a href="' . esc_url( network_admin_url('plugin-install.php?tab=plugin-information&plugin=' . $plugin_name_8 . '&TB_iframe=true&width=772&height=772' ) ) . '" class="button thickbox" title="WordPress Plugin Ultimate Maintenance Mode">Ultimate Maintenance Mode installieren</a>';
+
+$plugin_name_9 = 'duplicate-post';
+$install_link_9 = '<a href="' . esc_url( network_admin_url('plugin-install.php?tab=plugin-information&plugin=' . $plugin_name_9 . '&TB_iframe=true&width=772&height=772' ) ) . '" class="button thickbox" title="WordPress Plugin Duplicate Post">Duplicate Post installieren</a>';
+
 ?>
 
 <div class="wrap">
@@ -32,7 +37,7 @@ $install_link_8 = '<a href="' . esc_url( network_admin_url('plugin-install.php?t
 </div>
 <h2><?php echo '<img src="' . plugins_url( '/wp-backpack/pictures/menu_icon.png') . '"> ';?>WP Backpack</h2>
 <div style="display:block; text-align:left; float:left;">von Christoph Kleinschmidt, Tel: 017623330719, Mail: <a href='mailto:mail@christophkleinschmidt.de' target='_blank'>mail@christophkleinschmidt.de</a>, Web: <a href='http://www.christophkleinschmidt.de' target='_blank'>www.christophkleinschmidt.de</a></div>
-<div style="display:block; text-align:right;">WP Backpack Version 1.3.4</div>
+<div style="display:block; text-align:right;">WP Backpack Version 1.3.5</div>
 <hr>
 <h2 class="nav-tab-wrapper">
 	<a href="/wp-admin/admin.php?page=allgemein" class="nav-tab">Allgemein</a>
@@ -101,6 +106,14 @@ $install_link_8 = '<a href="' . esc_url( network_admin_url('plugin-install.php?t
 			</th>
 			<td>
 				<?php echo $install_link_8; ?>
+			</td>
+		</tr>
+		<tr valign="top">
+			<th scope="row">
+				Duplicate Post
+			</th>
+			<td>
+				<?php echo $install_link_9; ?>
 			</td>
 		</tr>
 	</table>
